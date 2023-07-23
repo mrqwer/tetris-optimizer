@@ -20,13 +20,13 @@ Tetris-Optimizer is an algorithmic task that aims to fit tetris pieces into the 
 
 - The algorithm employed in this process follows a classical backtracking approach. For each calculated dimension, we recursively fit all combinations of Tetrimino pieces within the square board.
 ## Example
-![Valid Input](https://01.alem.school/git/yeakbay/tetris-optimizer/workfiles/ex1.png?raw=true)
+![Valid Input](workfiles/ex1.png)
 
 ```bash
     go run main.go sample.txt
 ```
 
-![Valid Result](https://01.alem.school/git/yeakbay/tetris-optimizer/workfiles/res1.png?raw=true)
+![Valid Result](workfiles/res1.png)
 
 ## Test
 In cases directory, there are tons of cases.
@@ -38,6 +38,7 @@ To run test.
 
 ## Tech
 Go version 1.20
+
 Used only standard library
 ## References
 [Tetrimino background](https://en.wikipedia.org/wiki/Tetromino)
