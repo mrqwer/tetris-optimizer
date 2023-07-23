@@ -50,4 +50,4 @@ Used only standard library
 [Sudoku solver' backtracking algorithm](https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/sudoku-backtracking-7/amp/)
 
 # Author
-[@yeakbay](https://01.alem.school/git/yeakbay)
+[@mrqwer](https://github.com/mrqwer)
