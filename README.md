@@ -25,6 +25,7 @@ Tetris-Optimizer is an algorithmic task that aims to fit tetris pieces into the 
 ```bash
     go run main.go sample.txt
 ```
+
 ![Valid Result](https://01.alem.school/git/yeakbay/tetris-optimizer/workfiles/res1.png?raw=true)
 
 ## Test
@@ -40,8 +41,11 @@ Go version 1.20
 Used only standard library
 ## References
 [Tetrimino background](https://en.wikipedia.org/wiki/Tetromino)
+
 [42 School student Beth Locke's article](https://medium.com/@bethnenniger/fillit-solving-for-the-smallest-square-of-tetrominos-c6316004f909)
+
 [42 School student Phat Truong's article](https://medium.com/@phtruong42/42-project-fillit-ffd0ce54223e)
+
 [Sudoku solver' backtracking algorithm](https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/sudoku-backtracking-7/amp/)
 
 # Author
