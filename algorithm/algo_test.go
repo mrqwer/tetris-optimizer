@@ -43,7 +43,7 @@ func TestSolve(t *testing.T) {
 	bigMap[board1] = tetrominos1
 
 	for board, tetrominos := range bigMap {
-		if !Solve(board, tetrominos) {
+		if !Solve(board, tetrominos, 0) {
 			t.Error("Failed to solve the puzzle with the provided Tetrominos.")
 		}
 	}

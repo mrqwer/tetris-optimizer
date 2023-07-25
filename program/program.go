@@ -9,13 +9,15 @@ import (
 	"tetris-optimizer/algorithm"
 	"tetris-optimizer/file"
 	"tetris-optimizer/helper"
+	"tetris-optimizer/logdir"
+	"time"
 )
 
-func newTetromino(s string, letter byte) *algorithm.Tetromino {
+func newTetromino(s string, letter uint8) *algorithm.Tetromino {
+	start := time.Now()
+	defer logdir.LogFunctionTime("newTetromino", start)
 	lines := strings.Split(s, "\n")
 	lines = shiftPiece(lines)
-	fmt.Printf("Height: %v\n", len(lines))
-	fmt.Printf("Width: %v\n", len(lines[0]))
 	return &algorithm.Tetromino{
 		Letter: letter,
 		Shape:  lines,
@@ -24,11 +26,13 @@ func newTetromino(s string, letter byte) *algorithm.Tetromino {
 	}
 }
 
-func generateBoard(dim int) [][]byte {
-	board_form := make([][]byte, dim)
+func generateBoard(dim int) [][]uint8 {
+	start := time.Now()
+	defer logdir.LogFunctionTime("generateBoard", start)
+	board_form := make([][]uint8, dim)
 
 	for i := 0; i < dim; i++ {
-		board_form[i] = make([]byte, dim)
+		board_form[i] = make([]uint8, dim)
 		for j := 0; j < dim; j++ {
 			board_form[i][j] = '.'
 		}
@@ -37,6 +41,8 @@ func generateBoard(dim int) [][]byte {
 }
 
 func shiftPiece(grid []string) []string {
+	start := time.Now()
+	defer logdir.LogFunctionTime("shiftPiece", start)
 	minRow, maxRow, minCol, maxCol := len(grid), 0, len(grid[0]), 0
 
 	for row, rowStr := range grid {
@@ -85,6 +91,8 @@ func printBoard(board *algorithm.Board) {
 }
 
 func Run(filename string) {
+	start := time.Now()
+	defer logdir.LogFunctionTime("Run", start)
 	content, _ := file.ReadFile(filename)
 
 	re := regexp.MustCompile(`\n\n+`)
@@ -95,7 +103,7 @@ func Run(filename string) {
 		splitStrs[i] = helper.CleanData(splitStrs[i])
 	}
 	tetrominoes := []*algorithm.Tetromino{}
-	var char byte = 'A'
+	var char uint8 = 'A'
 	for i := 0; i < n; i++ {
 		if char > 90 {
 			char = 97
@@ -109,20 +117,21 @@ func Run(filename string) {
 		char++
 	}
 	smallestSquareFound := false
-
-	for dim := int(math.Sqrt(float64(n * 4))); dim < 10; dim++ {
+	for dim := int(math.Ceil(math.Sqrt(float64(n * 4)))); dim < 10; dim++ {
 		fmt.Printf("Square Dimension: %d\n", dim)
+		logdir.LogFunc(fmt.Sprintf("Square Dimension: %d", dim))
 		cells := generateBoard(dim)
 		board := &algorithm.Board{
 			Dim:   dim,
 			Cells: cells,
 		}
-		if algorithm.Solve(board, tetrominoes) {
+		if algorithm.Solve(board, tetrominoes, 0) {
 			smallestSquareFound = true
 			fmt.Println("Smallest square found!")
 			printBoard(board)
-			return
+			break
 		}
+
 		fmt.Println("-------------------------------------------------")
 	}
 

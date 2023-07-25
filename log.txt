@@ -1,0 +1,300 @@
+2023/07/25 11:45:23 -------------------------------------------------------
+2023/07/25 11:45:23 Program has started
+2023/07/25 11:45:23 Function [shiftPiece] took: 1.0516666666666667e-08 minutes
+2023/07/25 11:45:23 Function [newTetromino] took: 2.3476666666666666e-07 minutes
+2023/07/25 11:45:23 Function [shiftPiece] took: 1.0516666666666667e-08 minutes
+2023/07/25 11:45:23 Function [newTetromino] took: 8.683333333333334e-08 minutes
+2023/07/25 11:45:23 Function [shiftPiece] took: 1.0183333333333334e-08 minutes
+2023/07/25 11:45:23 Function [newTetromino] took: 7.563333333333333e-08 minutes
+2023/07/25 11:45:23 Function [shiftPiece] took: 8.516666666666667e-09 minutes
+2023/07/25 11:45:23 Function [newTetromino] took: 7.13e-08 minutes
+2023/07/25 11:45:23 Function [shiftPiece] took: 7.85e-09 minutes
+2023/07/25 11:45:23 Function [newTetromino] took: 7.08e-08 minutes
+2023/07/25 11:45:23 Function [shiftPiece] took: 8.183333333333334e-09 minutes
+2023/07/25 11:45:23 Function [newTetromino] took: 7.931666666666667e-08 minutes
+2023/07/25 11:45:23 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 11:45:23 Function [newTetromino] took: 7.246666666666667e-08 minutes
+2023/07/25 11:45:23 Function [shiftPiece] took: 7.183333333333333e-09 minutes
+2023/07/25 11:45:23 Function [newTetromino] took: 6.611666666666667e-08 minutes
+2023/07/25 11:45:23 Square Dimension: 6
+2023/07/25 11:45:23 Function [generateBoard] took: 3.005e-08 minutes
+2023/07/25 11:45:23 Function [Run] took: 8.026666666666667e-06 minutes
+2023/07/25 11:53:49 -------------------------------------------------------
+2023/07/25 11:53:49 Program has started
+2023/07/25 11:53:49 Function [shiftPiece] took: 1.2183333333333333e-08 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 1.82e-07 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 3.5166666666666667e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 6.128333333333334e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 7.683333333333333e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 5.7933333333333336e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 5.35e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 5.0416666666666665e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 5.85e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 5.243333333333333e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 6.016666666666667e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 4.941666666666667e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 5e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 4.791666666666667e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 4.666666666666666e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 4.826666666666667e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 4.683333333333333e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 4.758333333333333e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 4.85e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 4.675e-08 minutes
+2023/07/25 11:53:49 Function [shiftPiece] took: 4.833333333333334e-09 minutes
+2023/07/25 11:53:49 Function [newTetromino] took: 4.658333333333333e-08 minutes
+2023/07/25 11:53:49 Square Dimension: 7
+2023/07/25 11:53:49 Function [generateBoard] took: 6.516666666666666e-09 minutes
+2023/07/25 14:32:16 -------------------------------------------------------
+2023/07/25 14:32:16 Program has started
+2023/07/25 14:32:16 Function [shiftPiece] took: 1.0516666666666667e-08 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 1.937e-07 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 3.35e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 7.931666666666667e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 7.516666666666666e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 6.678333333333334e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 5e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 5.961666666666667e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 5e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 5.76e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 5.166666666666667e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 6.028333333333333e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 5.85e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 6.078333333333334e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 6.016666666666667e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 5.66e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 4.5166666666666666e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 5.5433333333333333e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 4.35e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 5.6933333333333334e-08 minutes
+2023/07/25 14:32:16 Function [shiftPiece] took: 4.666666666666666e-09 minutes
+2023/07/25 14:32:16 Function [newTetromino] took: 5.426666666666667e-08 minutes
+2023/07/25 14:32:16 Square Dimension: 7
+2023/07/25 14:32:16 Function [generateBoard] took: 5.683333333333333e-09 minutes
+2023/07/25 14:59:05 -------------------------------------------------------
+2023/07/25 14:59:05 Program has started
+2023/07/25 14:59:05 Function [shiftPiece] took: 2.1533333333333334e-08 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 2.2993333333333334e-07 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 5.35e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 7.965e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 1.1183333333333333e-08 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 7.496666666666667e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 8.516666666666667e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 7.815e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 7.516666666666666e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 7.898333333333333e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 6.88e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 9.35e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 7.746666666666667e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 6.795e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 7.35e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 6.68e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 7.35e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 7.265e-08 minutes
+2023/07/25 14:59:05 Function [shiftPiece] took: 7.35e-09 minutes
+2023/07/25 14:59:05 Function [newTetromino] took: 6.813333333333333e-08 minutes
+2023/07/25 14:59:05 Square Dimension: 7
+2023/07/25 14:59:05 Function [generateBoard] took: 9.683333333333334e-09 minutes
+2023/07/25 14:59:05 Function [Run] took: 0.00020596331666666666 minutes
+2023/07/25 15:02:14 -------------------------------------------------------
+2023/07/25 15:02:14 Program has started
+2023/07/25 15:02:14 Function [shiftPiece] took: 7.683333333333333e-09 minutes
+2023/07/25 15:02:14 Function [newTetromino] took: 1.7983333333333334e-07 minutes
+2023/07/25 15:02:14 Function [shiftPiece] took: 7.333333333333334e-09 minutes
+2023/07/25 15:02:14 Function [newTetromino] took: 8.2e-08 minutes
+2023/07/25 15:02:14 Function [shiftPiece] took: 7.35e-09 minutes
+2023/07/25 15:02:14 Function [newTetromino] took: 5.3766666666666665e-08 minutes
+2023/07/25 15:02:14 Function [shiftPiece] took: 7.016666666666667e-09 minutes
+2023/07/25 15:02:14 Function [newTetromino] took: 6.463333333333334e-08 minutes
+2023/07/25 15:02:14 Function [shiftPiece] took: 5.683333333333333e-09 minutes
+2023/07/25 15:02:14 Function [newTetromino] took: 6.261666666666667e-08 minutes
+2023/07/25 15:02:14 Function [shiftPiece] took: 6.516666666666666e-09 minutes
+2023/07/25 15:02:14 Function [newTetromino] took: 6.961666666666666e-08 minutes
+2023/07/25 15:02:14 Function [shiftPiece] took: 5.35e-09 minutes
+2023/07/25 15:02:14 Function [newTetromino] took: 7.096666666666666e-08 minutes
+2023/07/25 15:02:14 Function [shiftPiece] took: 6.016666666666667e-09 minutes
+2023/07/25 15:02:14 Function [newTetromino] took: 5.8783333333333334e-08 minutes
+2023/07/25 15:02:14 Square Dimension: 6
+2023/07/25 15:02:14 Function [generateBoard] took: 3.49e-08 minutes
+2023/07/25 15:02:14 Function [Run] took: 1.95815e-06 minutes
+2023/07/25 15:02:33 -------------------------------------------------------
+2023/07/25 15:02:33 Program has started
+2023/07/25 15:02:33 Function [shiftPiece] took: 1.135e-08 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 1.9268333333333332e-07 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 6.35e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 6.696666666666666e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 6.35e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 6.261666666666667e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 4.85e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 5.743333333333333e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 4.85e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 6.178333333333333e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 5.5e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 5.743333333333333e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 5.5e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 5.795e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 4.1833333333333336e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 5.593333333333333e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 4.85e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 6.561666666666667e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 4.5166666666666666e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 5.71e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 4.833333333333334e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 6.026666666666666e-08 minutes
+2023/07/25 15:02:33 Function [shiftPiece] took: 4.683333333333333e-09 minutes
+2023/07/25 15:02:33 Function [newTetromino] took: 5.3433333333333335e-08 minutes
+2023/07/25 15:02:33 Square Dimension: 7
+2023/07/25 15:02:33 Function [generateBoard] took: 4.683333333333333e-09 minutes
+2023/07/25 15:02:48 Function [Run] took: 0.24954798285 minutes
+2023/07/25 15:23:07 -------------------------------------------------------
+2023/07/25 15:23:07 Program has started
+2023/07/25 15:23:07 Function [shiftPiece] took: 1.8366666666666666e-08 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 2.4396666666666666e-07 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 1.035e-08 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 1.032e-07 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 1.085e-08 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 8.8e-08 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 8.183333333333334e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 8.733333333333333e-08 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 8.448333333333333e-08 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 8.85e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 8.266666666666667e-08 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 9.35e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 8.265e-08 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 6.666666666666667e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 8.65e-08 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 8.583333333333333e-08 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 7.683333333333333e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 1.9236666666666668e-07 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 8.666666666666666e-08 minutes
+2023/07/25 15:23:07 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 15:23:07 Function [newTetromino] took: 9.751666666666667e-08 minutes
+2023/07/25 15:23:07 Square Dimension: 7
+2023/07/25 15:23:07 Function [generateBoard] took: 7.5e-09 minutes
+2023/07/25 15:23:23 Function [Run] took: 0.25338727473333333 minutes
+2023/07/25 15:23:57 -------------------------------------------------------
+2023/07/25 15:23:57 Program has started
+2023/07/25 15:24:04 -------------------------------------------------------
+2023/07/25 15:24:04 Program has started
+2023/07/25 15:24:20 -------------------------------------------------------
+2023/07/25 15:24:20 Program has started
+2023/07/25 15:24:31 -------------------------------------------------------
+2023/07/25 15:24:31 Program has started
+2023/07/25 15:24:40 -------------------------------------------------------
+2023/07/25 15:24:40 Program has started
+2023/07/25 15:24:48 -------------------------------------------------------
+2023/07/25 15:24:48 Program has started
+2023/07/25 15:24:48 Function [shiftPiece] took: 9.016666666666666e-09 minutes
+2023/07/25 15:24:48 Function [newTetromino] took: 1.3491666666666667e-07 minutes
+2023/07/25 15:24:48 Square Dimension: 2
+2023/07/25 15:24:48 Function [generateBoard] took: 2.6666666666666666e-09 minutes
+2023/07/25 15:24:48 Function [Run] took: 5.802666666666667e-07 minutes
+2023/07/25 15:25:01 -------------------------------------------------------
+2023/07/25 15:25:01 Program has started
+2023/07/25 15:25:01 Function [shiftPiece] took: 8.85e-09 minutes
+2023/07/25 15:25:01 Function [newTetromino] took: 2.0138333333333334e-07 minutes
+2023/07/25 15:25:01 Function [shiftPiece] took: 1.185e-08 minutes
+2023/07/25 15:25:01 Function [newTetromino] took: 8.281666666666666e-08 minutes
+2023/07/25 15:25:01 Function [shiftPiece] took: 1.135e-08 minutes
+2023/07/25 15:25:01 Function [newTetromino] took: 1.1573333333333334e-07 minutes
+2023/07/25 15:25:01 Function [shiftPiece] took: 1.57e-08 minutes
+2023/07/25 15:25:01 Function [newTetromino] took: 1.2155e-07 minutes
+2023/07/25 15:25:01 Function [shiftPiece] took: 1.2533333333333333e-08 minutes
+2023/07/25 15:25:01 Function [newTetromino] took: 1.1221666666666666e-07 minutes
+2023/07/25 15:25:01 Function [shiftPiece] took: 1.37e-08 minutes
+2023/07/25 15:25:01 Function [newTetromino] took: 1.2373333333333333e-07 minutes
+2023/07/25 15:25:01 Function [shiftPiece] took: 1.3366666666666667e-08 minutes
+2023/07/25 15:25:01 Function [newTetromino] took: 1.0936666666666667e-07 minutes
+2023/07/25 15:25:01 Function [shiftPiece] took: 1.185e-08 minutes
+2023/07/25 15:25:01 Function [newTetromino] took: 1.1621666666666667e-07 minutes
+2023/07/25 15:25:01 Square Dimension: 6
+2023/07/25 15:25:01 Function [generateBoard] took: 6.646666666666667e-08 minutes
+2023/07/25 15:25:01 Function [Run] took: 3.2681666666666665e-06 minutes
+2023/07/25 15:25:13 -------------------------------------------------------
+2023/07/25 15:25:13 Program has started
+2023/07/25 15:25:13 Function [shiftPiece] took: 1.7866666666666668e-08 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 2.401166666666667e-07 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 5.5e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 6.995e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 1.0516666666666667e-08 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 8.716666666666667e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 9.016666666666666e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 7.848333333333333e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 9.016666666666666e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 7.531666666666667e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 8.85e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 8.265e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 8.35e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 7.546666666666667e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 7.496666666666667e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 7e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 8.366666666666666e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 7.35e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 6.963333333333333e-08 minutes
+2023/07/25 15:25:13 Function [shiftPiece] took: 8.016666666666667e-09 minutes
+2023/07/25 15:25:13 Function [newTetromino] took: 7.446666666666667e-08 minutes
+2023/07/25 15:25:13 Square Dimension: 7
+2023/07/25 15:25:13 Function [generateBoard] took: 7.85e-09 minutes
+2023/07/25 15:25:13 Function [Run] took: 0.0001892915 minutes
+2023/07/25 15:25:42 -------------------------------------------------------
+2023/07/25 15:25:42 Program has started
+2023/07/25 15:25:42 Function [shiftPiece] took: 1.185e-08 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 1.0018333333333333e-07 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 3.5166666666666667e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 3.038333333333333e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 7.516666666666666e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 3.105e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 9.016666666666666e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 3.173333333333333e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 5.5166666666666664e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 2.955e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 5.5e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 2.855e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 5.8333333333333335e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 2.94e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 5.1833333333333334e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 2.8383333333333333e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 4.5e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 2.94e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 5.016666666666667e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 2.7883333333333335e-08 minutes
+2023/07/25 15:25:42 Function [shiftPiece] took: 4.85e-09 minutes
+2023/07/25 15:25:42 Function [newTetromino] took: 3.3066666666666665e-08 minutes
+2023/07/25 15:25:42 Square Dimension: 7
+2023/07/25 15:25:42 Function [generateBoard] took: 5.85e-09 minutes
+2023/07/25 15:25:42 Function [Run] took: 0.00018605935 minutes
+2023/07/25 15:26:26 -------------------------------------------------------
+2023/07/25 15:26:26 Program has started
+2023/07/25 15:26:26 Function [shiftPiece] took: 1.9866666666666666e-08 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 1.159e-07 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 9.85e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 4.5416666666666666e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 9.35e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 4.4083333333333334e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 6.516666666666666e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 4.006666666666667e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 7.516666666666666e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 4.1416666666666664e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 8.85e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 4.325e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 1.035e-08 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 5.393333333333333e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 3.833333333333334e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 8.465e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 4.166666666666667e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 2.5883333333333333e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 4.1833333333333336e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 2.5883333333333333e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 4.5166666666666666e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 2.7216666666666666e-08 minutes
+2023/07/25 15:26:26 Function [shiftPiece] took: 4.166666666666667e-09 minutes
+2023/07/25 15:26:26 Function [newTetromino] took: 2.4866666666666668e-08 minutes
+2023/07/25 15:26:26 Square Dimension: 7
+2023/07/25 15:26:26 Function [generateBoard] took: 5.683333333333333e-09 minutes
+2023/07/25 15:26:41 Function [Run] took: 0.24551075756666665 minutes

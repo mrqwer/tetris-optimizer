@@ -36,6 +36,12 @@ To run test.
     go test
 ```
 
+## Logs and Benchmarks
+The processing times of functions can be found in log.txt after each run. You can view the contents of log.txt using the following command in the terminal or just open with text editor:
+```bash
+    cat log.txt
+```
+
 ## Tech
 Go version 1.20
 
