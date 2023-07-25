@@ -30,9 +30,12 @@ Tetris-Optimizer is an algorithmic task that aims to fit tetris pieces into the 
 
 ## Test
 In cases directory, there are tons of cases.
-To run test.
+To run test, first go to the algorithm.
 ```bash
     cd algorithm
+```
+then 
+```bash
     go test
 ```
 
